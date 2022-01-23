@@ -37,5 +37,5 @@ Still, it is a dangerous move for an unfortunate match.
 
 # Data matches
 
-In the repository I also added some folders containing the logs of a multitude of matches done with a different number of players (1000 matches per group, from 2 to 5).
+In the repository I also added some compressed folders containing the logs of a multitude of matches done with a different number of players (1000 matches per group, from 2 to 5).
 The result are generally good from 2 to 4 players, giving an average score of 16.50 approximately while are less good, although still pretty nice with 5 players, giving an average score of approximately 15.10.
